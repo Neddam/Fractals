@@ -1,3 +1,10 @@
 Properties:
 - Self Similarity
   - each individual piece looks like the whole
+Devils Staircase
+- map all the points we removed to the midpoint of removed line set
+Infinity
+- points in cantor set are infinite and uncountable
+Dimension?
+- has a dimension between 0 and 1. Technically ln(2)/ln(3)
+- More so considered measure
