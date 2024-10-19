@@ -9,7 +9,6 @@ def cantor_set(x,y,l):
         cantor_set(x+2/3*l,y,l/3) #right hand offspring
 
 
-
 w,h = 1500,500
 win = Canvas(Tk(),width=w,height=h)
 win.pack()
